@@ -1,5 +1,4 @@
 # UISearchController
-![](https://img.shields.io/badge/Swift-3-%23FD3C33.svg "Swift Version")
 
 This is a small demonstration of the new `UISearchController` API. 
 
